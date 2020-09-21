@@ -1,0 +1,104 @@
+body
+{
+   
+    padding: 3px;
+    background-color: #778899    ;/*complete page background color #FF6347 #FF4500 #FFD700 #FFA500 #40E0D0 #778899*/
+    color:#ffffff;/*complete page text color */
+}
+
+
+.parallax_description
+{
+text-align: center;
+font-size: 150%;
+color: #0000ff;
+}
+.col-sm-6/* paragraphs */
+{
+
+display:block;
+padding:2px 10px;
+width: 50%;
+font-size: 140%;
+text-align : center;
+color:#ffffff;
+border-color:#ffffff;
+margin:auto;
+width:50%;
+}
+#how_to_start
+{
+    text-align: center;
+
+}
+.col-sm-6 h1
+{
+    font-size: 160%;
+    color: #000000;
+    text-decoration:underline;
+}
+#how_to_start
+{
+    display: block;
+    float: none;
+    text-align : center;
+
+}
+.wrap
+{
+text-decoration-color: #ffffff;
+}
+#career
+{
+
+}
+#fit
+{
+
+}
+.banner
+{
+    color:#ff0000;
+    background-color:#dddddd;
+    text-align:center;
+    padding:5px;
+    margin-bottom:15px;
+    width:100%;
+    border-radius:30px;
+}
+
+.banner h2
+{
+    color:#000000;
+    width:100%;
+    font-size:500%;
+    text-decoration:underline;
+    text-transform:uppercase;
+}
+.footer-basic-centered
+{
+    width:100%;
+    border-color:#ffffff;
+    margin:auto;
+}
+#tab-6714-3
+{
+    border-radius:30px;
+    background-color:#dddddd;
+    width:75%;
+    margin:auto;
+}
+#tab-6714-3 h1
+{
+    text-transform:uppercase;
+    text-decoration :underline;
+    background-color:;
+    color:#000000;
+
+}
+#tab-6714-3 h4,h6
+{
+    font-size:100%;
+       background-color:;
+    color:#000000;
+}
